@@ -1,10 +1,8 @@
 # JavaScript Projects
 
-A collection of 44 JavaScript projects built to develop and demonstrate
-core front-end and Node.js skills. Each project lives in its own folder and
-can be run independently. The collection progresses from terminal-based
-programs to DOM applications, REST API integration, and browser APIs such as
-Canvas and Drag & Drop.
+This repository contains all the JavaScript projects I have built while learning
+and practicing the language. Each folder is a separate, self-contained project
+with its own code, so you can open and run any of them independently.
 
 ## Projects
 
